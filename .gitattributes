@@ -1,0 +1,5 @@
+*.sh linguist-vendored
+*.mk linguist-vendored
+Makefile* linguist-vendored
+*.in linguist-vendored
+*.m4 linguist-vendored
